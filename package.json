@@ -4,9 +4,9 @@
   "description": "A multi functional whatsapp bot Web paircode.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name THE-MASTER-MD",
-    "stop": "pm2 stop THE-MASTER-MD",
-    "restart": "pm2 restart THE-MASTER-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name 𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗",
+    "stop": "pm2 stop 𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗"
+    "restart": "pm2 restart 𝗧𝗛𝗘-𝗠𝗔𝗦𝗧𝗘𝗥-𝗠𝗗"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@0.0.5",
